@@ -6,6 +6,7 @@
             "title": "Plate Crafters Front & Rear Number Plate Set - Red",
             "description": "Upgrade the aesthetics of your vehicle with the Plate Crafters Front & Rear Number Plate Set in striking red color. Crafted with high-quality materials, this set not only adds style but also ensures durability. Give your vehicle a unique look that stands out on the road.",
             "price": 894,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -15,6 +16,7 @@
             "title": "Plate Crafters Apache Number Plate Set - Blue",
             "description": "Personalize your Apache motorcycle with the Plate Crafters Apache Number Plate Set in a vibrant blue color. Made to fit perfectly, this set is both a visual enhancement and a statement of your bike's identity. Ride with pride and style.",
             "price": 637,
+            "quantity":1,
             "category": "back_plate",
             "rating": 3
         },
@@ -24,6 +26,7 @@
             "title": "Plate Crafters Jupiter Front Plate - Yellow",
             "description": "Add a touch of personality to your Jupiter scooter with the Plate Crafters Jupiter Front Plate in a vibrant yellow shade. Constructed to withstand the elements, this plate is not just a visual accessory, but a reflection of your style.",
             "price": 420,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -33,6 +36,7 @@
             "title": "Plate Crafters Universal Rear Plate - Green",
             "description": "Upgrade the rear look of your vehicle with the Plate Crafters Universal Rear Plate in an eye-catching green color. Made to fit most vehicles, this plate adds a personalized touch to your ride while maintaining legality.",
             "price": 789,
+            "quantity":1,
             "category": "back_plate",
             "rating": 5
         },
@@ -42,6 +46,7 @@
             "title": "Plate Crafters Royal Enfield Plate Set - Black",
             "description": "Elevate the classic elegance of your Royal Enfield with the Plate Crafters Royal Enfield Plate Set in a sleek black finish. This set is a tribute to timeless design while offering a contemporary touch to your ride.",
             "price": 1042,
+            "quantity":1,
             "category": "premium_plate",
             "rating": 3
         },
@@ -51,6 +56,7 @@
             "title": "Plate Crafters Yamaha Front & Rear Plate Set - Blue",
             "description": "Transform your Yamaha bike with the Plate Crafters Yamaha Front & Rear Plate Set in a bold blue color. This set is tailor-made for Yamaha models, reflecting the brand's spirit of performance and innovation.",
             "price": 1126,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 4
         },
@@ -60,6 +66,7 @@
             "title": "Plate Crafters Scooty Front Plate - White",
             "description": "Customize your scooty with the Plate Crafters Scooty Front Plate in a clean white hue. Crafted to fit most scooty models, this plate adds a personalized touch to your ride while adhering to legal requirements.",
             "price": 531,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -69,6 +76,7 @@
             "title": "Plate Crafters Bajaj Rear Plate - Black",
             "description": "Enhance the rear design of your Bajaj bike with the Plate Crafters Bajaj Rear Plate in a sleek black color. This plate is designed to fit perfectly and add a touch of boldness to your bike's appearance.",
             "price": 486,
+            "quantity":1,
             "category": "back_plate",
             "rating": 3
         },
@@ -78,6 +86,7 @@
             "title": "Plate Crafters TVS Apache Front Plate - Red",
             "description": "Give your TVS Apache a new front look with the Plate Crafters TVS Apache Front Plate in a striking red color. This plate is designed to match the boldness and style of the Apache series.",
             "price": 752,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -87,6 +96,7 @@
             "title": "Plate Crafters Honda Activa Number Plate Set - White",
             "description": "Upgrade your Honda Activa with the Plate Crafters Honda Activa Number Plate Set in a clean white color. This set is designed to fit perfectly and add a touch of elegance to your scooter.",
             "price": 618,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 5
         },
@@ -96,6 +106,7 @@
             "title": "Plate Crafters Suzuki Access Back Plate - Silver",
             "description": "Enhance the rear end of your Suzuki Access with the Plate Crafters Suzuki Access Back Plate in a sleek silver color. This plate adds a touch of modernity to your scooter's design.",
             "price": 567,
+            "quantity":1,
             "category": "back_plate",
             "rating": 4
         },
@@ -105,6 +116,7 @@
             "title": "Plate Crafters Hero Splendor Front Plate - Black",
             "description": "Upgrade the front profile of your Hero Splendor with the Plate Crafters Hero Splendor Front Plate in a sleek black color. This plate is designed to add a touch of boldness to your bike.",
             "price": 489,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -114,6 +126,7 @@
             "title": "Plate Crafters Yamaha R15 Number Plate Set - Blue",
             "description": "Personalize your Yamaha R15 with the Plate Crafters Yamaha R15 Number Plate Set in a vibrant blue color. This set is designed to match the sporty and dynamic aesthetics of the R15.",
             "price": 899,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 5
         },
@@ -123,6 +136,7 @@
             "title": "Plate Crafters KTM Duke Rear Plate - Orange",
             "description": "Enhance the rear appearance of your KTM Duke with the Plate Crafters KTM Duke Rear Plate in a distinctive orange color. This plate adds a pop of color while maintaining the rugged look of the Duke.",
             "price": 548,
+            "quantity":1,
             "category": "back_plate",
             "rating": 4
         },
@@ -132,6 +146,7 @@
             "title": "Plate Crafters Bajaj Pulsar Front Plate - Black",
             "description": "Upgrade the front look of your Bajaj Pulsar with the Plate Crafters Bajaj Pulsar Front Plate in a sleek black color. This plate is designed to match the edgy and aggressive design of the Pulsar series.",
             "price": 632,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -141,6 +156,7 @@
             "title": "Plate Crafters Royal Enfield Classic Number Plate Set - Brown",
             "description": "Add a touch of vintage elegance to your Royal Enfield Classic with the Plate Crafters Royal Enfield Classic Number Plate Set in a rich brown color. This set complements the timeless design of the Classic series.",
             "price": 985,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 4
         },
@@ -150,6 +166,7 @@
             "title": "Plate Crafters Honda Hornet Back Plate - Red",
             "description": "Enhance the rear profile of your Honda Hornet with the Plate Crafters Honda Hornet Back Plate in a bold red color. This plate adds a touch of vibrancy to your bike's design.",
             "price": 513,
+            "quantity":1,
             "category": "back_plate",
             "rating": 5
         },
@@ -159,6 +176,7 @@
             "title": "Plate Crafters Suzuki Gixxer Front Plate - Blue",
             "description": "Upgrade the front look of your Suzuki Gixxer with the Plate Crafters Suzuki Gixxer Front Plate in a vibrant blue color. This plate is designed to match the sporty and aggressive aesthetics of the Gixxer.",
             "price": 674,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -168,6 +186,7 @@
             "title": "Plate Crafters Yamaha FZ Number Plate Set - Black",
             "description": "Personalize your Yamaha FZ with the Plate Crafters Yamaha FZ Number Plate Set in a sleek black color. This set adds a touch of modernity and style to your bike.",
             "price": 751,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 3
         },
@@ -177,6 +196,7 @@
             "title": "Plate Crafters TVS Ntorq Back Plate - Yellow",
             "description": "Enhance the rear end of your TVS Ntorq with the Plate Crafters TVS Ntorq Back Plate in a vibrant yellow color. This plate adds a touch of energy and dynamism to your scooter's appearance.",
             "price": 589,
+            "quantity":1,
             "category": "back_plate",
             "rating": 5
         },
@@ -186,6 +206,7 @@
             "title": "Plate Crafters Hero Passion Front Plate - Red",
             "description": "Upgrade the front profile of your Hero Passion with the Plate Crafters Hero Passion Front Plate in a striking red color. This plate is designed to add a touch of vibrancy and style.",
             "price": 543,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -195,6 +216,7 @@
             "title": "Plate Crafters Honda Shine Number Plate Set - Blue",
             "description": "Personalize your Honda Shine with the Plate Crafters Honda Shine Number Plate Set in a calming blue color. This set is designed to add a touch of elegance and sophistication to your bike.",
             "price": 617,
+            "quantity":1,
             "category": "custom_plate",
             "rating": 3
         },
@@ -204,6 +226,7 @@
             "title": "Plate Crafters Bajaj Discover Back Plate - Black",
             "description": "Enhance the rear look of your Bajaj Discover with the Plate Crafters Bajaj Discover Back Plate in a sleek black color. This plate is designed to add a touch of modernity and sleekness.",
             "price": 496,
+            "quantity":1,
             "category": "back_plate",
             "rating": 4
         },
@@ -213,6 +236,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -222,6 +246,7 @@
             "title": "Plate Crafters Bajaj Discover Back Plate - Black",
             "description": "Enhance the rear look of your Bajaj Discover with the Plate Crafters Bajaj Discover Back Plate in a sleek black color. This plate is designed to add a touch of modernity and sleekness.",
             "price": 496,
+            "quantity":1,
             "category": "back_plate",
             "rating": 4
         },
@@ -231,6 +256,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -240,6 +266,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -249,6 +276,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -258,6 +286,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -267,6 +296,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -276,6 +306,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -285,6 +316,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 2
         },
@@ -294,6 +326,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -303,6 +336,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -312,6 +346,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 2
         },
@@ -321,6 +356,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -330,6 +366,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -339,6 +376,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -348,6 +386,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -357,6 +396,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -366,6 +406,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 2
         },
@@ -375,6 +416,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -384,6 +426,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -393,6 +436,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -402,6 +446,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -411,6 +456,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 4
         },
@@ -420,6 +466,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         },
@@ -429,6 +476,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 2
         },
@@ -438,6 +486,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 3
         },
@@ -447,6 +496,7 @@
             "title": "Plate Crafters Yamaha MT Front Plate - Black",
             "description": "Upgrade the front appearance of your Yamaha MT with the Plate Crafters Yamaha MT Front Plate in a sleek black color. This plate is designed to match the bold and muscular look of the MT series.",
             "price": 689,
+            "quantity":1,
             "category": "front_plate",
             "rating": 5
         }
@@ -458,6 +508,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/01/cf-B-3-300x320.jpg",
             "title": "Carbon Fiber Black Car Plate",
             "price": 2475,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's aesthetics with the sleek Carbon Fiber Black Car Plate. This premium plate features a carbon fiber pattern that adds a touch of modern elegance. Crafted using high-quality materials, this plate is designed to withstand various weather conditions while maintaining its exquisite appearance."
@@ -467,6 +518,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/01/ContactSheet-003-1-300x320.jpg",
             "title": "Classic Contact Car Plate",
             "price": 2998,
+            "quantity":1,
             "rating": 4,
             "category": "classic_plate",
             "description": "Give your vehicle a classic touch with the timeless design of the Classic Contact Car Plate. The plate showcases a refined contact-style font that exudes elegance and sophistication. Whether you have a vintage car or simply appreciate classic aesthetics, this plate is a perfect choice."
@@ -476,6 +528,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/01/CF-C-5-300x320.jpg",
             "title": "Carbon Fiber Custom Car Plate",
             "price": 3762,
+            "quantity":1,
             "rating": 3,
             "category": "custom_plate",
             "description": "Create a unique identity for your vehicle with the Carbon Fiber Custom Car Plate. This plate not only offers a customizable design but also features a carbon fiber texture that adds a modern and sporty look. Personalize your plate with your choice of text and let your car stand out from the crowd."
@@ -485,6 +538,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/01/ContactSheet-001-4-300x320.jpg",
             "title": "Contact Style Car Plate",
             "price": 2650,
+            "quantity":1,
             "rating": 4,
             "category": "classic_plate",
             "description": "Elevate your vehicle's appearance with the Contact Style Car Plate. The plate features a unique contact-style font that adds a touch of flair to your car's front or rear. Made with attention to detail and quality materials, this plate is a blend of classic and contemporary design."
@@ -494,6 +548,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-3d-carbon-300x320.jpg",
             "title": "3D Carbon Honey Car Plate",
             "price": 3485,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Add a three-dimensional visual effect to your vehicle with the 3D Carbon Honey Car Plate. The plate combines a honeycomb design with a 3D carbon texture, creating a stunning play of light and shadow. Experience a unique blend of modern style and technological innovation."
@@ -503,6 +558,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-forged-4-300x320.jpg",
             "title": "Forged 3M Honey Car Plate",
             "price": 2150,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Experience the strength of forged materials and the elegance of honeycomb textures with the Forged 3M Honey Car Plate. This plate offers a combination of durability and style, making it an excellent choice for those who appreciate a balance between aesthetics and toughness."
@@ -512,6 +568,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-4-300x320.jpg",
             "title": "5D Honey Forged Car Plate",
             "price": 3768,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Elevate your vehicle's exterior with the 5D Honey Forged Car Plate. Crafted using advanced forging techniques, this plate features a honeycomb pattern that adds a sense of depth and visual appeal. With its unique 5D design, this plate is a true testament to modern automotive aesthetics."
@@ -521,6 +578,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-3-1-300x320.jpg",
             "title": "5D Honey Style Car Plate",
             "price": 3155,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's look with the 5D Honey Style Car Plate. The plate boasts a multi-dimensional honeycomb pattern that catches and reflects light in intriguing ways. Combining style and substance, this plate is a testament to the fusion of innovative design and modern aesthetics."
@@ -530,6 +588,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-forged-1-300x320.jpg",
             "title": "Forged Honey Car Plate",
             "price": 2407,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Discover the artistry of forging with the Forged Honey Car Plate. This plate features a honeycomb texture that is both visually appealing and durable. Crafted using precision forging techniques, this plate adds a touch of sophistication to your vehicle while showcasing meticulous craftsmanship."
@@ -539,6 +598,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-forged-3-300x320.jpg",
             "title": "3D Forged Honey Car Plate",
             "price": 2899,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Elevate your vehicle's exterior with the 3D Forged Honey Car Plate. The plate features a honeycomb design that extends in three dimensions, creating a captivating visual effect. Crafted with attention to detail, this plate adds a touch of modern elegance to your car's front or rear."
@@ -548,6 +608,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-300x320.jpg",
             "title": "5D Honey Car Plate",
             "price": 3144,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the 5D Honey Car Plate. Crafted using innovative 5D technology, this plate features a honeycomb pattern that adds depth and dimension to your car's front or rear. Experience a new level of visual appeal and sophistication."
@@ -557,6 +618,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-forged-300x320.jpg",
             "title": "Forged 3M Car Plate",
             "price": 2640,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Elevate your vehicle's style and durability with the Forged 3M Car Plate. This plate is forged using advanced techniques to ensure strength and resilience. With its honeycomb texture and attention-grabbing design, this plate is a testament to the fusion of aesthetics and engineering."
@@ -566,6 +628,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-3-300x320.jpg",
             "title": "5D Honey Car Plate",
             "price": 3062,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Add a touch of innovation to your vehicle with the 5D Honey Car Plate. Crafted using cutting-edge 5D technology, this plate features a honeycomb pattern that adds depth and visual interest. Upgrade your car's exterior with this unique combination of style and sophistication."
@@ -575,6 +638,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-1-300x320.jpg",
             "title": "5D Honey Car Plate",
             "price": 2318,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the 5D Honey Car Plate. The plate boasts a multi-dimensional honeycomb pattern that adds a futuristic touch to your car's front or rear. With its unique design and eye-catching style, this plate is a perfect blend of innovation and elegance."
@@ -584,6 +648,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-rfl-forged-6-300x320.jpg",
             "title": "Forged White Car Plate",
             "price": 3825,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's aesthetics with the Forged White Car Plate. This premium plate features a forged construction that ensures durability and longevity. The clean white color adds a touch of elegance, making it a perfect accessory for those who appreciate both style and substance."
@@ -593,6 +658,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-4-300x320.jpg",
             "title": "5D Honey Car Plate",
             "price": 3227,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Enhance your vehicle's exterior with the captivating 5D Honey Car Plate. Crafted using advanced 5D technology, this plate features a honeycomb pattern that adds depth and visual intrigue. Make a statement on the road with this innovative and stylish car plate."
@@ -602,6 +668,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/09/blog3-440x321.jpg",
             "title": "Customized Car Plate",
             "price": 3976,
+            "quantity":1,
             "rating": 2,
             "category": "custom_plate",
             "description": "Create a personalized touch for your vehicle with the Customized Car Plate. This plate allows you to choose your desired text and design, reflecting your individual style and preferences. Make your car uniquely yours with this custom plate that combines aesthetics and personalization."
@@ -611,6 +678,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/09/blog2-440x321.jpg",
             "title": "Unique Car Plate",
             "price": 2455,
+            "quantity":1,
             "rating": 3,
             "category": "custom_plate",
             "description": "Make a statement on the road with the Unique Car Plate. This plate features a distinctive design that sets your vehicle apart from the rest. If you're looking to add a touch of uniqueness and flair to your car's appearance, this custom plate is the perfect choice."
@@ -620,6 +688,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2020/09/blog1-copy-440x321.jpg",
             "title": "Stylish Car Plate",
             "price": 2983,
+            "quantity":1,
             "rating": 4,
             "category": "custom_plate",
             "description": "Upgrade your car's aesthetics with the Stylish Car Plate. This plate offers a modern and eye-catching design that enhances your vehicle's exterior. With its attention-grabbing style and sleek appearance, this plate is a perfect accessory for those who appreciate contemporary aesthetics."
@@ -629,6 +698,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-space-300x320.jpg",
             "title": "Luxury Car Plate",
             "price": 12000,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Elevate your vehicle's status with the Luxury Car Plate. This premium plate features a space-themed design that exudes opulence and grandeur. With its intricate details and luxurious appearance, this plate is a testament to sophistication and elegance."
@@ -638,6 +708,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-300x320.jpg",
             "title": "Premium Car Plate",
             "price": 9000,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Premium Car Plate. This plate features a high-quality construction and a unique honeycomb pattern that catches the eye. Elevate your car's style and make a bold statement on the road with this premium plate."
@@ -647,6 +718,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3d-carbonwhite-space-300x320.jpg",
             "title": "Elegant Car Plate",
             "price": 7000,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Enhance your vehicle's elegance with the Elegant Car Plate. This premium plate features a white carbon fiber pattern on a sleek black background, adding a touch of modern sophistication. Elevate your car's exterior with this elegant and stylish accessory."
@@ -656,6 +728,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3mhoney-5d-honey-300x320.jpg",
             "title": "Sleek Car Plate",
             "price": 8500,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's aesthetics with the Sleek Car Plate. This plate features a honeycomb pattern that adds a sense of depth and modernity. With its captivating design and attention to detail, this plate is a perfect accessory for those who appreciate sleek and contemporary style."
@@ -665,6 +738,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-carb5d-carbon-bik-300x320.jpg",
             "title": "Carbon Fiber Car Plate",
             "price": 15000,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Experience the future of automotive design with the Carbon Fiber Car Plate. This premium plate features a carbon fiber texture that adds a touch of high-tech elegance to your vehicle. Elevate your car's exterior with this innovative and modern accessory."
@@ -674,6 +748,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-carbforged-300x320.jpg",
             "title": "Forged Car Plate",
             "price": 12000,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Forged Car Plate. This premium plate features a forged construction that ensures durability and longevity. With its intricate design and attention-grabbing appearance, this plate is a testament to the fusion of aesthetics and engineering."
@@ -683,6 +758,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-carbon-forged-300x320.jpg",
             "title": "White Carbon Car Plate",
             "price": 10500,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Add a touch of elegance to your vehicle with the White Carbon Car Plate. This premium plate features a white carbon fiber texture that adds a modern and luxurious look. Elevate your car's exterior with this unique blend of style and sophistication."
@@ -692,6 +768,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/5d-honey-5d-honey-bik-2-300x320.jpg",
             "title": "Sporty Car Plate",
             "price": 8000,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Sporty Car Plate. This plate features a dynamic honeycomb pattern that exudes a sense of speed and movement. With its captivating design and sporty appearance, this plate is a perfect choice for those who love a sporty aesthetic."
@@ -701,6 +778,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/5d-honey-5d-honey-bik-3-300x320.jpg",
             "title": "Dynamic Car Plate",
             "price": 7500,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Add a touch of dynamism to your vehicle's exterior with the Dynamic Car Plate. This plate features a honeycomb pattern that exudes energy and movement. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a dynamic look."
@@ -710,6 +788,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/5d-honey-5d-honey-bik-300x320.jpg",
             "title": "Honeycomb Car Plate",
             "price": 6000,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Honeycomb Car Plate. This plate features a honeycomb pattern that adds depth and visual interest. With its unique design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate modern and innovative style."
@@ -719,6 +798,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/5d-honey-5d-honeybike-300x320.jpg",
             "title": "Bike-Inspired Car Plate",
             "price": 5500,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Add a touch of uniqueness to your vehicle's exterior with the Bike-Inspired Car Plate. This plate features a honeycomb pattern that draws inspiration from the world of motorcycles. With its captivating design and eye-catching appearance, this plate is a perfect accessory for those who appreciate a bold and innovative look."
@@ -728,6 +808,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-3d-carbon-300x320.jpg",
             "title": "3D Carbon Car Plate",
             "price": 6800,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the 3D Carbon Car Plate. This plate features a three-dimensional carbon fiber texture that adds a touch of modern elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate cutting-edge style."
@@ -737,6 +818,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-2-300x320.jpg",
             "title": "Reflective Car Plate",
             "price": 7200,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Enhance your vehicle's exterior with the Reflective Car Plate. This plate features a reflective honeycomb pattern that catches and reflects light in intriguing ways. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate dynamic style."
@@ -746,6 +828,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-forged-6-300x320.jpg",
             "title": "Forged Carbon Car Plate",
             "price": 8900,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Forged Carbon Car Plate. This plate features a forged construction with a carbon fiber texture that adds a touch of high-tech elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of aesthetics and engineering."
@@ -755,6 +838,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-honey-5d-honey-bik-2-300x320.jpg",
             "title": "Carbon Honey Car Plate",
             "price": 9600,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Add a touch of innovation to your vehicle's exterior with the Carbon Honey Car Plate. This plate features a honeycomb pattern with a carbon fiber texture that adds a modern and sporty look. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate cutting-edge style."
@@ -764,6 +848,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-carbonwhite-300x320.jpg",
             "title": "Carbon White Car Plate",
             "price": 7800,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Carbon White Car Plate. This plate features a carbon fiber texture on a white background, adding a touch of modern elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of high-tech and style."
@@ -773,6 +858,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-carbon-forged-300x320.jpg",
             "title": "Carbon Forged Car Plate",
             "price": 8500,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Enhance your vehicle's exterior with the Carbon Forged Car Plate. This plate features a forged construction with a carbon fiber texture that adds a touch of high-tech elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of aesthetics and engineering."
@@ -782,6 +868,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-honey-5d-honey-300x320.jpg",
             "title": "Carbon Honey Car Plate",
             "price": 7200,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Carbon Honey Car Plate. This plate features a honeycomb pattern with a carbon fiber texture that adds a touch of modern and sporty look. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate cutting-edge style."
@@ -791,6 +878,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-honey-5d-honey-2-300x320.jpg",
             "title": "Carbon Reflective Car Plate",
             "price": 7800,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Enhance your vehicle's exterior with the Carbon Reflective Car Plate. This plate features a reflective honeycomb pattern with a carbon fiber texture that adds a touch of modern elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of high-tech and style."
@@ -800,6 +888,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-honey-5d-honey-3-300x320.jpg",
             "title": "Carbon Dynamic Car Plate",
             "price": 8500,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the Carbon Dynamic Car Plate. This plate features a dynamic honeycomb pattern with a carbon fiber texture that adds a touch of sporty and modern look. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate cutting-edge style."
@@ -809,6 +898,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/wh-honey-5d-honey-bik-3-300x320.jpg",
             "title": "Carbon Bike-Inspired Car Plate",
             "price": 6900,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Add a touch of uniqueness to your vehicle's exterior with the Carbon Bike-Inspired Car Plate. This plate features a honeycomb pattern that draws inspiration from the world of motorcycles, combined with a carbon fiber texture. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a bold and innovative look."
@@ -818,6 +908,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3d-space-300x320.jpg",
             "title": "Space Car Plate",
             "price": 11000,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Elevate your vehicle's status with the Space Car Plate. This premium plate features a space-themed design that exudes opulence and grandeur. With its intricate details and luxurious appearance, this plate is a testament to sophistication and elegance."
@@ -827,6 +918,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-3d-carbon-300x320.jpg",
             "title": "White 3D Carbon Car Plate",
             "price": 9500,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Add a touch of modern elegance to your vehicle with the White 3D Carbon Car Plate. This plate features a white carbon fiber texture in a three-dimensional pattern, creating a unique visual effect. Elevate your car's exterior with this innovative and stylish accessory."
@@ -836,6 +928,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-5d-honey-300x320.jpg",
             "title": "White Honey Car Plate",
             "price": 7800,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the White Honey Car Plate. This plate features a honeycomb pattern on a white background, adding a touch of modern elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of high-tech and style."
@@ -845,6 +938,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-5d-honey-2-300x320.jpg",
             "title": "White Reflective Car Plate",
             "price": 8500,
+            "quantity":1,
             "rating": 4,
             "category": "premium_plate",
             "description": "Enhance your vehicle's exterior with the White Reflective Car Plate. This plate features a reflective honeycomb pattern on a white background, adding a touch of modern elegance. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a blend of high-tech and style."
@@ -854,6 +948,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-5d-honey-3-300x320.jpg",
             "title": "White Dynamic Car Plate",
             "price": 9200,
+            "quantity":1,
             "rating": 5,
             "category": "premium_plate",
             "description": "Upgrade your vehicle's exterior with the White Dynamic Car Plate. This plate features a dynamic honeycomb pattern on a white background, adding a touch of sporty and modern look. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate cutting-edge style."
@@ -863,6 +958,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3m-white-5d-honey-bik-3-300x320.jpg",
             "title": "White Bike-Inspired Car Plate",
             "price": 7600,
+            "quantity":1,
             "rating": 1,
             "category": "premium_plate",
             "description": "Add a touch of uniqueness to your vehicle's exterior with the White Bike-Inspired Car Plate. This plate features a honeycomb pattern that draws inspiration from the world of motorcycles, combined with a white background. With its captivating design and attention-grabbing appearance, this plate is a perfect accessory for those who appreciate a bold and innovative look."
@@ -872,6 +968,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3d-carbon-space-300x320.jpg",
             "title": "3D Space Car Plate",
             "price": 12500,
+            "quantity":1,
             "rating": 2,
             "category": "premium_plate",
             "description": "Elevate your vehicle's status with the 3D Space Car Plate. This premium plate features a space-themed design in a three-dimensional pattern, creating a unique visual effect. With its intricate details and luxurious appearance, this plate is a testament to sophistication and elegance."
@@ -881,6 +978,7 @@
             "img": "https://www.f1numberplatesindia.in/wp-content/uploads/2021/06/3d-white-space-300x320.jpg",
             "title": "White Space Car Plate",
             "price": 9900,
+            "quantity":1,
             "rating": 3,
             "category": "premium_plate",
             "description": "Elevate your vehicle's status with the White Space Car Plate. This premium plate features a space-themed design on a white background, exuding opulence and grandeur. With its intricate details and luxurious appearance, this plate is a testament to sophistication and elegance."
